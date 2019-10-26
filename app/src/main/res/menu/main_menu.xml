@@ -15,7 +15,7 @@
 	/>
 	<item android:title="@string/menu_open"
 		android:id="@+id/menu_open"
-		/>
+	/>
 	<item android:title="@string/menu_save"
 		android:id="@+id/menu_save"
 		app:showAsAction="always"
